@@ -1,0 +1,5 @@
+C:\Users\ygor.veronez.a\Documents\DiagramaClasse\AppBiblia.BL\AppBiblia.BL\bin\Debug\AppBiblia.BL.dll
+C:\Users\ygor.veronez.a\Documents\DiagramaClasse\AppBiblia.BL\AppBiblia.BL\bin\Debug\AppBiblia.BL.pdb
+C:\Users\ygor.veronez.a\Documents\DiagramaClasse\AppBiblia.BL\AppBiblia.BL\obj\Debug\AppBiblia.BL.csprojResolveAssemblyReference.cache
+C:\Users\ygor.veronez.a\Documents\DiagramaClasse\AppBiblia.BL\AppBiblia.BL\obj\Debug\AppBiblia.BL.dll
+C:\Users\ygor.veronez.a\Documents\DiagramaClasse\AppBiblia.BL\AppBiblia.BL\obj\Debug\AppBiblia.BL.pdb
